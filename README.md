@@ -49,7 +49,11 @@ Simulation for engine starting and firing is handled by switching the movement s
 ```
 There is a plan to add support for external sound modules (DFPlayer Mini / Serial MP3 player modules)
 
-The board needs some revision and quality/function check, as it has not been made yet.
+The board needs some revision and quality/function check, as it has not been made yet. However this is what the board could look like if the current design is made:
+![IMG1630331590](https://user-images.githubusercontent.com/11834016/131350370-ea361070-b381-45ae-9f61-9ed486dc4f7a.png)
+![IMG1630331605](https://user-images.githubusercontent.com/11834016/131350399-ea78d039-bd0e-4c0c-a015-98a4eade9e0e.png)
+
+Believe it or not this is the second big revision -- the first one was... not good.
 
 # Credits
 Pololu - DRV8833 circuit design
